@@ -309,12 +309,13 @@ ul {
     padding: 25px 0 60px;
 }
 
-.footlist .list-items {
+.footlist a {
     font-family: "Roboto-Regular";
     font-size: 12px;
     line-height: 28px;
     color: #828282;
     height: 26px;
+    text-decoration: none;
 }
 
 .circle {
@@ -345,6 +346,6 @@ ul {
     float: left;
 }
 
-.footer-bottom:first-child {
-    margin-right: 345px;
+.policy-right {
+    float: right;
 }
